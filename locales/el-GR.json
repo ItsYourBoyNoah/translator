@@ -8,7 +8,7 @@
 
     "commands.permissions": "Δεν έχετε άδεια να χρησιμοποιήσετε το `%name%` command.\nΛείπει: `%missing%`",
     "commands.arguments": "Δόθηκαν πολύ λίγα επιχειρήματα.\nΧρήση: `%usage%`",
-    "commands.unknown": "Δεν μπόρεσα να βρω αυτήν το command ή τη μονάδα.",
+    "commands.unknown": "Δεν μπόρεσα να βρω αυτό το command ή τη μονάδα.",
     "commands.invalidArgument": "Μη έγκυρο `%argument%` επιχείρημα δόθηκε.\nΧρήση: `%usage%`",
     
     "commands.admin.eval.maxOutputLength": "Το αποτέλεσμα έχει ξεπεράσει τους `%length%` χαρακτήρες.",
